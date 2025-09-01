@@ -1,4 +1,5 @@
-<img width="209" height="82" alt="image" src="https://github.com/user-attachments/assets/bbcb8bf9-18e3-487a-8198-3bede366e576" />
+<img width="1308" height="744" alt="image" src="https://github.com/user-attachments/assets/2bebf981-d392-4a1b-a456-8e1fe406b678" />
+
 
 ## 🧭 Project Steps
 1) Requirement Gathering / Business Requirements
